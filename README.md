@@ -1,4 +1,4 @@
-Hi, I'm Yasmine Habchi 👋
+Hi evreyone, I'm Yasmine Habchi 👋
 
 Master's student in Computer Science at the Faculté des Sciences de Bizerte (Université de Carthage), IDEA Lab. I work on Arabic Natural Language Processing, teaching machines to understand what people really mean, including sarcasm.
 
